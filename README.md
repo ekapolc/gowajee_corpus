@@ -22,7 +22,7 @@ The training-dev split is included in the provided file.
 
 ## Directory structure
 
-XXX
+XX
 
 
 ## Version 0.9
