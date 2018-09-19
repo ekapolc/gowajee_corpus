@@ -25,9 +25,9 @@ The training-dev split is included in the provided file.
 XXX
 
 
-## Version 2018-1
+## Version 0.9
 
-There are XXX utterances collected from XX speakers. X are males, while X are females. The total length of the corpus is XXX hours. The vocabulary size is XX words with a total of XXX words.
+There are XX utterances collected from XX speakers. XX are males, while XX are females. The total length of the corpus is XX hours. The vocabulary size is XX words with a total of XX words.
 
 ### Download
 
