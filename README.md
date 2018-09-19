@@ -43,7 +43,7 @@ There are 7829 utterances collected from 76 speakers. Sixty-three are males, whi
 
 ### Download
 
-[Version 0.9](https://drive.google.com/file/d/1OjC5NCgYzgbZ5iEffc1ssWIVm8PWfDxX/view?usp=sharing)
+[Version 0.9](https://drive.google.com/file/d/1r3r_NnFpMomRmMQps6qX17OlmRBmFFSb/view?usp=sharing)
 
 ## Citing
 
@@ -55,10 +55,10 @@ Please cite the following be sure to include the version number of the corpus
      author = {Ekapol Chuangsuwanich and Atiwong Suchato and Korrawe Karunratanakul and Burin Naowarat},
      year = {2018},
      institution = {Chulalongkorn University, Faculty of Engineering, Computer Engineering Department},
-     month = {06},
-     Date-Added = {2018-06-11},
+     month = {09},
+     Date-Added = {2018-09-19},
      url = {https://github.com/ekapolc/gowajee_corpus}
-     note = {Version 2018-1}
+     note = {Version 0.9}
 }
 ```
 
