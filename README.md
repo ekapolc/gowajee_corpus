@@ -22,7 +22,20 @@ The training-dev split is included in the provided file.
 
 ## Directory structure
 
-XX
+dataset
+|-- audios
+|   |-- 2017
+|   |-- 2018
+|-- dev
+|   |-- spk2utt
+|   |-- text
+|   |-- utt2spk
+|   |-- wav.scp
+|-- train
+    |-- spk2utt
+    |-- text
+    |-- utt2spk
+    |-- wav.scp
 
 
 ## Version 0.9
