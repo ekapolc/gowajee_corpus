@@ -31,7 +31,7 @@ There are XXX utterances collected from XX speakers. X are males, while X are fe
 
 ### Download
 
-XXX
+[Version 0.9](https://drive.google.com/file/d/1OjC5NCgYzgbZ5iEffc1ssWIVm8PWfDxX/view?usp=sharing)
 
 ## Citing
 
