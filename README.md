@@ -16,7 +16,7 @@ For the full instructions used for the collection, see [here](https://github.com
 
 ## Benchmarks
 
-We kept the recordings from one group of students aside as a dev set, and the rest of the groups as the training set. The language model was trained from the combined dev and training set (this is cheating, but this benchmark serves more as a pre-liminary evaluation). Using the voxforge recipe in Kaldi (up to the neural network model), we achieved around XX% WER. 
+We kept the recordings from one group of students aside as a dev set, and the rest of the groups as the training set. The language model was trained from the combined dev and training set (this is cheating, but this benchmark serves more as a pre-liminary evaluation). Using the voxforge recipe in Kaldi (up to the neural network model), we achieved around 42% WER. 
 
 The training-dev split is included in the provided file.
 
