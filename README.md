@@ -27,7 +27,7 @@ XX
 
 ## Version 0.9
 
-There are XX utterances collected from XX speakers. XX are males, while XX are females. The total length of the corpus is XX hours. The vocabulary size is XX words with a total of XX words.
+There are 7829 utterances collected from 76 speakers. Sixty-three are males, while 13 are females. The total length of the corpus is 6 hours. The vocabulary size is 1063 words with a total of 46111 words.
 
 ### Download
 
