@@ -14,6 +14,10 @@ The corpus was collected in the Automatic Speech Recognition class offered at Ch
 
 For the full instructions used for the collection, see [here](https://github.com/ekapolc/ASR_course/tree/master/HW3)
 
+## Benchmarks
+
+Using the voxforge training script, tri3b (speaker dependent) got 21.3% on the dev set and 10.5% on the test set.
+
 ## Directory structure
 
 dataset
@@ -55,7 +59,7 @@ One group recorded "ภาษาลู", a teenage slang version of Thai. This i
 
 ### Download
 
-[Version 0.9.1](https://drive.google.com/file/d/1DRQcxd2jymA1CcCZotiFTSZj5RGs6uUb/view?usp=sharing)
+[Version 0.9.1](https://drive.google.com/file/d/10AuYzEUz6EYFFJT_y4SUNBVf3tT8WPrW/view?usp=sharing)
 
 ## Citing
 
