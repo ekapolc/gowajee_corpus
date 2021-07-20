@@ -3,7 +3,7 @@ Thai smart home corpus with "Gowajee" hotword
 
 ## Corpus Description
 
-The corpus was collected in the Automatic Speech Recognition class offered at Chulalongkorn University as a homework assignment. The corpus comprises of the recordings from the Spring 2017-2020 course offerings. The students were asked to form a group of up to six people. Each group were asked to come up with an example smart home application. Each group will record the same set of sentences that they came up with. More specifically, the students were instructed to:
+The corpus was collected in the Automatic Speech Recognition class offered at Chulalongkorn University as a homework assignment. The corpus comprises of the recordings from the Spring 2017-2021 course offerings. The students were asked to form a group of up to six people. Each group were asked to come up with an example smart home application. Each group will record the same set of sentences that they came up with. More specifically, the students were instructed to:
 
 * Collect 101 utterances per person (same sentences for each group)
 * The first utterance is "Gowajee". This is designated as the wakeword.
@@ -16,7 +16,7 @@ For the full instructions used for the collection, see [here](https://github.com
 
 ## Benchmarks
 
-Using the voxforge training script, tri3b (speaker dependent) got 21.3% on the dev set and 10.5% on the test set.
+Using the voxforge training script, tri3b (speaker dependent) got 14.91% on the dev set and 8.82% on the test set.
 
 ## Directory structure
 
@@ -26,6 +26,7 @@ dataset
     * 2018
     * 2019
     * 2020
+    * 2021
 * dev
     * spk2utt
     * text
@@ -47,19 +48,19 @@ dataset
     * utt2spk
     * wav.scp
 
-We kept the recordings from two groups of students aside as a dev set, one group for the test set, and the rest of the groups as the training set.
+We kept the recordings from three groups of students aside as a dev set, two group for the test set, and the rest of the groups as the training set.
 
 The train/dev/test set splits is included in the provided file.
 
-## Version 0.9.1
+## Version 0.9.2
 
-There are 14060 utterances collected from 137 speakers. 116 are males, while 21 are females. The total length of the corpus is 11 hours. The vocabulary size is 1571 words with a total of 71353 words.
+There are 17597 utterances collected from 166 speakers. 142 are males, while 24 are females. The total length of the corpus is 14 hours and 40 minutes. The vocabulary size is 2129 words with a total of 98253 words.
 
 One group recorded "ภาษาลู", a teenage slang version of Thai. This is separated into its own set.
 
 ### Download
 
-[Version 0.9.1](https://drive.google.com/file/d/10AuYzEUz6EYFFJT_y4SUNBVf3tT8WPrW/view?usp=sharing)
+[Version 0.9.2](https://drive.google.com/file/d/10AuYzEUz6EYFFJT_y4SUNBVf3tT8WPrW/view?usp=sharing)
 
 ## Citing
 
@@ -69,13 +70,13 @@ Please cite the following be sure to include the version number of the corpus
 @techreport{gowajee,
      title = {{Gowajee Corpus}},
      author = {Ekapol Chuangsuwanich and Atiwong Suchato and Korrawe Karunratanakul and Burin Naowarat and Chompakorn CChaichot
-and Penpicha Sangsa-nga},
+and Penpicha Sangsa-nga and Thunyathon Anutarases and Nitchakran Chaipojjana},
      year = {2020},
      institution = {Chulalongkorn University, Faculty of Engineering, Computer Engineering Department},
      month = {12},
-     Date-Added = {2020-12-12},
+     Date-Added = {2021-07-20},
      url = {https://github.com/ekapolc/gowajee_corpus}
-     note = {Version 0.9.1}
+     note = {Version 0.9.2}
 }
 ```
 
