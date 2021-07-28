@@ -60,7 +60,7 @@ One group recorded "ภาษาลู", a teenage slang version of Thai. This i
 
 ### Download
 
-[Version 0.9.2](https://drive.google.com/file/d/10AuYzEUz6EYFFJT_y4SUNBVf3tT8WPrW/view?usp=sharing)
+[Version 0.9.2](https://drive.google.com/file/d/1cN-pDwBVrguhHE6uEh4v6xLOa6qSjaWA/view?usp=sharing)
 
 ## Citing
 
